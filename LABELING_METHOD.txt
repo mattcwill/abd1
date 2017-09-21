@@ -1,0 +1,3 @@
+For this assignment, I used the suggested labeling method from the project notes.
+For each row, the label UP is applied if the closing bid/ask value is greater than the previous hour's closing bid/ask value.
+Otherwise, the label DOWN is applied.
